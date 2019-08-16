@@ -9,7 +9,7 @@ Transformer 在机器翻译任务上的表现超过了 RNN，CNN，只用 encode
 
 
 
-![img](D:\Program Files\Python_Workspace\Transformer\desc\2.png)
+![img](desc\2.png)
 
 from：https://ai.googleblog.com/2017/08/transformer-novel-neural-network.html
 
@@ -19,7 +19,7 @@ Transformer 是一种基于 encoder-decoder 结构的模型，
 
 
 
-![img](D:\Program Files\Python_Workspace\Transformer\desc\transfromer.png)
+![img](desc\transfromer.png)
 
 from：https://arxiv.org/pdf/1706.03762.pdf
 
